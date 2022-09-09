@@ -1,5 +1,3 @@
-
-
 text1=input("a=")
 text2=input("b=")
 a=int(text1)
